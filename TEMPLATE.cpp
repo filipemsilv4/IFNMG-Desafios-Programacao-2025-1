@@ -1,5 +1,5 @@
 /*
-g++ -std=c++17 -o bin/out a.cpp && ./bin/out
+g++ -Wall -Werror -std=c++17 -o bin/out X.cpp && ./bin/out
 */
 
 #include <bits/stdc++.h>
