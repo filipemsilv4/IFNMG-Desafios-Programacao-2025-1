@@ -11,6 +11,9 @@ g++ -Wall -Werror -std=c++17 -o bin/out X.cpp && ./bin/out
 using namespace std;
 
 int main(){
+    ios::sync_with_stdio(false);
+    cin.tie(nullptr);
+
     lli t;
     cin >> t;
     while (t--){
