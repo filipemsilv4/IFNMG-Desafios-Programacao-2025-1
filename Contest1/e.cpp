@@ -2,7 +2,9 @@
 g++ -Wall -Werror -std=c++17 -o bin/out e.cpp && ./bin/out < input.txt
 */
 
-#include <bits/stdc++.h>
+#include <iostream>
+#include <string>
+#include <limits>
 
 #define lli long long int
 #define ulli unsigned long long int
